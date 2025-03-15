@@ -1,0 +1,43 @@
+
+           
+.overlay-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 800px;
+    gap: 70px;
+    margin: 20px auto;
+
+   
+}
+.overlay-item img{
+    width: 400px;
+    height: 300px;
+    margin-bottom: 8px;
+    position: relative;
+    left: 200px;
+}
+ .overlay-text{
+    font-size: large;
+    margin-bottom: 10px;
+    position: relative;
+    top: 30px;
+    
+ } 
+ .container-box{
+    background-color:rgb(149, 192, 206);
+    padding: 2%;
+ }
+ .text-number{
+    font-size: large;
+    margin-bottom: 10px;
+    position: relative;
+    top: 35px;
+ }   
+ .text-container{
+    font-size: large;
+    margin-bottom: 10px;
+    position: relative;
+    top: 35px;
+ }
+
